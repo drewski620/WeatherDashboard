@@ -1,0 +1,47 @@
+
+
+
+
+.container {
+    max-width: 1200px;
+    align-items: center;
+
+
+};
+
+.cities {
+    
+    vertical-align: auto;
+    font-size: 100px;
+    
+    
+}
+
+.form-group {
+    clear: both;
+    max-width: 25%;
+}
+.jumbotron-fluid {
+    background-color: aliceblue;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    
+}
+
+
+.display-4 {
+    font-size: 80px;
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
+
+/* .submitButton {
+    margin-top: 20px;
+} */
+
+
